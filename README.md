@@ -1,4 +1,8 @@
-# Yggdrasil Connect for Blessing Skin
+# 基于原插件的UUID扩展性分支 LTD开发
+
+**支持mojang UUID**，旨在解决正版验证服务器问题，使正版验证转型为第三方验证，同时几乎不影响原有玩家数据。
+
+# Yggdrasil Connect for Blessing Skin 
 
 本插件实现了 [Yggdrasil 服务端技术规范](https://github.com/yushijinhun/authlib-injector/wiki/Yggdrasil%20%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%8A%80%E6%9C%AF%E8%A7%84%E8%8C%83)，可与 [authlib-injector](https://github.com/yushijinhun/authlib-injector) 及支持的启动器配合实现 Minecraft 外置登录身份验证，并可与 [Janus](https://github.com/bs-community/janus) 项目配合实现基于 [Yggdrasil Connect 协议](https://github.com/yushijinhun/authlib-injector/issues/268) 的 OAuth 身份验证。要了解更多关于 Yggdrasil Connect 和 Janus 的信息，请阅读下面的 [关于 Yggdrasil Connect](#关于-yggdrasil-connect) 部分。
 
