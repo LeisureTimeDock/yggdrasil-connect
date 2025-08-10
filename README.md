@@ -77,5 +77,6 @@ Janus 是一个独立于 Blessing Skin Server 运行、但与 Blessing Skin Serv
 ## 版权
 
 Copyright (c) 2025-present LittleSkin. All rights reserved. Open source under the MIT license.
+Copyright (c) 2025-present LeisureTimeDock. All rights reserved. Open source under the MIT license.
 
 _Disclaimer：你站产品经理自己写代码的原则就是代码和人有一个能跑就行，自然有些代码很粗糙很难看很低效。如果你看着哪里的代码不爽，欢迎直接重构并 PR。_

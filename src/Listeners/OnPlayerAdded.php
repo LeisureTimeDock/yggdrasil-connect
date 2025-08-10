@@ -4,9 +4,11 @@ namespace LittleSkin\YggdrasilConnect\Listeners;
 
 use App\Models\Player;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\Log;
 use LittleSkin\YggdrasilConnect\Models\UUID;
 use LittleSkin\YggdrasilConnect\Services\MojangUUIDFetcher;
 use Ramsey\Uuid\Uuid as RamseyUuid;
+
 
 class OnPlayerAdded
 {

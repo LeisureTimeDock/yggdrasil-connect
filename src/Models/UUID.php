@@ -4,6 +4,7 @@ namespace LittleSkin\YggdrasilConnect\Models;
 
 use App\Models\Player;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Ramsey\Uuid\Uuid as RamseyUuid;
 use LittleSkin\YggdrasilConnect\Services\MojangUUIDFetcher;
